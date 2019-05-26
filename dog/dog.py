@@ -88,12 +88,12 @@ try:
   else:
    return UravxBuCwNMpYWTzKhPH
  def UravxBuCwNMpYWTzKhPt():
-  UravxBuCwNMpYWTzKhPI("".rjust(40,'-'))
-  UravxBuCwNMpYWTzKhPI("KOPI SEGALANYA".center(40,' '))
+  UravxBuCwNMpYWTzKhPI("Dogesbot".rjust(40,'-'))
+  UravxBuCwNMpYWTzKhPI("Termux Trics & Tut".center(40,' '))
   UravxBuCwNMpYWTzKhPI(''.rjust(40,'-'))
-  UravxBuCwNMpYWTzKhPI("TELEGRAM : https://fb.me/kikoka125")
+  UravxBuCwNMpYWTzKhPI("fb : https://fb.me/jonhmabine")
   UravxBuCwNMpYWTzKhPI(''.rjust(40,'-'))
-  UravxBuCwNMpYWTzKhPI(UravxBuCwNMpYWTzKhPq+"Created by Lana Theff".center(40,' '))
+  UravxBuCwNMpYWTzKhPI(UravxBuCwNMpYWTzKhPq+"Created by Damang".center(40,' '))
   UravxBuCwNMpYWTzKhPI(''.rjust(40,'-'))
  async def UravxBuCwNMpYWTzKhPF():
   if not UravxBuCwNMpYWTzKhPb.exists("session"):

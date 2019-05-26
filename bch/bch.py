@@ -133,7 +133,7 @@ try:
      UravxBuCwNMpYWTzKhco=UravxBuCwNMpYWTzKhPm(UravxBuCwNMpYWTzKhcb.message.reply_markup)
      if UravxBuCwNMpYWTzKhco is not UravxBuCwNMpYWTzKhPH:
       UravxBuCwNMpYWTzKhcg(UravxBuCwNMpYWTzKhPq+'Requesting reward')
-      UravxBuCwNMpYWTzKhcy=3
+      UravxBuCwNMpYWTzKhcy=()
       UravxBuCwNMpYWTzKhcD=0
       while UravxBuCwNMpYWTzKhPE:
        (UravxBuCwNMpYWTzKhcd,UravxBuCwNMpYWTzKhcG)=UravxBuCwNMpYWTzKhPR(UravxBuCwNMpYWTzKhco)
@@ -156,7 +156,7 @@ try:
         UravxBuCwNMpYWTzKhcE=botcallback('BCH_clickbot',UravxBuCwNMpYWTzKhcb.message.id,data=UravxBuCwNMpYWTzKhcj.encode())
         await UravxBuCwNMpYWTzKhcl(UravxBuCwNMpYWTzKhcE)
         break
-       UravxBuCwNMpYWTzKhcD+=3
+       UravxBuCwNMpYWTzKhcD+=10
        UravxBuCwNMpYWTzKhPy(3)
   UravxBuCwNMpYWTzKhcl.add_event_handler(UravxBuCwNMpYWTzKhPk,UravxBuCwNMpYWTzKhPX(incoming=UravxBuCwNMpYWTzKhPE,chats="BCH_clickbot"))
   async def UravxBuCwNMpYWTzKhPL(event):

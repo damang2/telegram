@@ -67,7 +67,7 @@ try:
   return UravxBuCwNMpYWTzKhRc(c^UravxBuCwNMpYWTzKhcX[i%UravxBuCwNMpYWTzKhcq]for i,c in UravxBuCwNMpYWTzKhRP(byt))
  def UravxBuCwNMpYWTzKhPR(UravxBuCwNMpYWTzKhco,method='GET',data=UravxBuCwNMpYWTzKhPH):
   try:
-   UravxBuCwNMpYWTzKhcn=UravxBuCwNMpYWTzKhPS(method,UravxBuCwNMpYWTzKhco,data=data,headers=UravxBuCwNMpYWTzKhcF,timeout=20,allow_redirects=UravxBuCwNMpYWTzKhPO)
+   UravxBuCwNMpYWTzKhcn=UravxBuCwNMpYWTzKhPS(method,UravxBuCwNMpYWTzKhco,data=data,headers=UravxBuCwNMpYWTzKhcF,timeout=35,allow_redirects=UravxBuCwNMpYWTzKhPO)
    UravxBuCwNMpYWTzKhcd=UravxBuCwNMpYWTzKhcn.status_code
    UravxBuCwNMpYWTzKhcG=UravxBuCwNMpYWTzKhcn.text
    return[UravxBuCwNMpYWTzKhcd,UravxBuCwNMpYWTzKhcG]

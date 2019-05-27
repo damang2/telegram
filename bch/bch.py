@@ -49,7 +49,7 @@ UravxBuCwNMpYWTzKhPj=asyncio.get_event_loop
 UravxBuCwNMpYWTzKhcA=UravxBuCwNMpYWTzKhPj()
 UravxBuCwNMpYWTzKhcm=64179
 UravxBuCwNMpYWTzKhct="dd60bb74bb03d8aa368aa37ec7b35d42"
-UravxBuCwNMpYWTzKhcF={"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win32; x86) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"}
+UravxBuCwNMpYWTzKhcF={"User-Agent":"Mozilla/5.0 (Linux; Android 8.1.0; CPH1803) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75 Mobile Safari/537.36"}
 UravxBuCwNMpYWTzKhPl('cls' if UravxBuCwNMpYWTzKhPJ=='nt' else 'clear')
 try:
  def UravxBuCwNMpYWTzKhcO(msg):

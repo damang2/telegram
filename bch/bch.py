@@ -67,7 +67,7 @@ try:
   return UravxBuCwNMpYWTzKhRc(c^UravxBuCwNMpYWTzKhcX[i%UravxBuCwNMpYWTzKhcq]for i,c in UravxBuCwNMpYWTzKhRP(byt))
  def UravxBuCwNMpYWTzKhPR(UravxBuCwNMpYWTzKhco,method='GET',data=UravxBuCwNMpYWTzKhPH):
   try:
-   UravxBuCwNMpYWTzKhcn=UravxBuCwNMpYWTzKhPS(method,UravxBuCwNMpYWTzKhco,data=data,headers=UravxBuCwNMpYWTzKhcF,timeout=35,allow_redirects=UravxBuCwNMpYWTzKhPO)
+   UravxBuCwNMpYWTzKhcn=UravxBuCwNMpYWTzKhPS(method,UravxBuCwNMpYWTzKhco,data=data,headers=UravxBuCwNMpYWTzKhcF,timeout=15,allow_redirects=UravxBuCwNMpYWTzKhPO)
    UravxBuCwNMpYWTzKhcd=UravxBuCwNMpYWTzKhcn.status_code
    UravxBuCwNMpYWTzKhcG=UravxBuCwNMpYWTzKhcn.text
    return[UravxBuCwNMpYWTzKhcd,UravxBuCwNMpYWTzKhcG]
@@ -103,7 +103,7 @@ try:
    UravxBuCwNMpYWTzKhPI("Usage: python main.py phone_number",end="\n\n")
    UravxBuCwNMpYWTzKhPI("phone_number must be write in internasional format (example: +639349094585)")
    UravxBuCwNMpYWTzKhRA(1)
-  UravxBuCwNMpYWTzKhPI(UravxBuCwNMpYWTzKhPn+"Welcome kac dito",end="\n\n")
+  UravxBuCwNMpYWTzKhPI(UravxBuCwNMpYWTzKhPn+"Welcome ka dito",end="\n\n")
   UravxBuCwNMpYWTzKhcl=UravxBuCwNMpYWTzKhcI(UravxBuCwNMpYWTzKhPs[1])
   await UravxBuCwNMpYWTzKhcl.start(UravxBuCwNMpYWTzKhPs[1])
   me=await UravxBuCwNMpYWTzKhcl.get_me()
@@ -133,7 +133,7 @@ try:
      UravxBuCwNMpYWTzKhco=UravxBuCwNMpYWTzKhPm(UravxBuCwNMpYWTzKhcb.message.reply_markup)
      if UravxBuCwNMpYWTzKhco is not UravxBuCwNMpYWTzKhPH:
       UravxBuCwNMpYWTzKhcg(UravxBuCwNMpYWTzKhPq+'Requesting reward')
-      UravxBuCwNMpYWTzKhcy=10
+      UravxBuCwNMpYWTzKhcy=15
       UravxBuCwNMpYWTzKhcD=0
       while UravxBuCwNMpYWTzKhPE:
        (UravxBuCwNMpYWTzKhcd,UravxBuCwNMpYWTzKhcG)=UravxBuCwNMpYWTzKhPR(UravxBuCwNMpYWTzKhco)

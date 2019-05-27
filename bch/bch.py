@@ -133,7 +133,7 @@ try:
      UravxBuCwNMpYWTzKhco=UravxBuCwNMpYWTzKhPm(UravxBuCwNMpYWTzKhcb.message.reply_markup)
      if UravxBuCwNMpYWTzKhco is not UravxBuCwNMpYWTzKhPH:
       UravxBuCwNMpYWTzKhcg(UravxBuCwNMpYWTzKhPq+'Requesting reward')
-      UravxBuCwNMpYWTzKhcy=()
+      UravxBuCwNMpYWTzKhcy=10
       UravxBuCwNMpYWTzKhcD=0
       while UravxBuCwNMpYWTzKhPE:
        (UravxBuCwNMpYWTzKhcd,UravxBuCwNMpYWTzKhcG)=UravxBuCwNMpYWTzKhPR(UravxBuCwNMpYWTzKhco)
